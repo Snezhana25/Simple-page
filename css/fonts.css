@@ -1,0 +1,16 @@
+@font-face{
+	src:url("../fonts/MyriadProRegular.ttf") format("ttf"), url("../fonts/myriadpro_regular.eot") format("eot"), url("../fonts/myriadpro_regular.woff") format("woff");
+	font-family: "MyriadProRegular";
+}
+@font-face{
+	src:url("../fonts/Ubuntu-Light.ttf") format("ttf"), url("../fonts/ubuntulight.woff") format("woff"), url("../fonts/ubuntulight.woff2") format("woff2");
+	font-family: "Ubuntu-Light";
+}
+@font-face{
+	src:url("../fonts/Ubuntu-Regular.ttf") format("ttf"), url("../fonts/Ubuntu-Regular.eot") format("eot"), url("../fonts/Ubuntu-Regular.otf") format("otf"), url("../fonts/Ubuntu-Regular.woff") format("woff");
+	font-family: "Ubuntu-Regular";
+}
+@font-face{
+	src:url("../fonts/Ubuntu-Bold.ttf") format("ttf"), url("../fonts/ubuntubold.woff") format("woff"), url("../fonts/ubuntubold.woff2") format("woff2");
+	font-family: "Ubuntu-Bold";
+}
